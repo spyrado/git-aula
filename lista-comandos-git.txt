@@ -2,10 +2,19 @@ Lista de comandos git
 
 
 
+
+
 Esta é uma lista de comandos que estou aprendendo.
 
+
+
 git init
-git commit
+
 git add
-git reset
+
+git commit
 git log
+git status
+git reset
+git push
+git pull
